@@ -1,0 +1,13 @@
+C:\Users\marvi\OneDrive\Escritorio\Example_Dot_NET\aplicacion_consola\bin\Debug\netcoreapp3.1\aplicacion_consola.exe
+C:\Users\marvi\OneDrive\Escritorio\Example_Dot_NET\aplicacion_consola\bin\Debug\netcoreapp3.1\aplicacion_consola.deps.json
+C:\Users\marvi\OneDrive\Escritorio\Example_Dot_NET\aplicacion_consola\bin\Debug\netcoreapp3.1\aplicacion_consola.runtimeconfig.json
+C:\Users\marvi\OneDrive\Escritorio\Example_Dot_NET\aplicacion_consola\bin\Debug\netcoreapp3.1\aplicacion_consola.runtimeconfig.dev.json
+C:\Users\marvi\OneDrive\Escritorio\Example_Dot_NET\aplicacion_consola\bin\Debug\netcoreapp3.1\aplicacion_consola.dll
+C:\Users\marvi\OneDrive\Escritorio\Example_Dot_NET\aplicacion_consola\bin\Debug\netcoreapp3.1\aplicacion_consola.pdb
+C:\Users\marvi\OneDrive\Escritorio\Example_Dot_NET\aplicacion_consola\obj\Debug\netcoreapp3.1\aplicacion_consola.csprojAssemblyReference.cache
+C:\Users\marvi\OneDrive\Escritorio\Example_Dot_NET\aplicacion_consola\obj\Debug\netcoreapp3.1\aplicacion_consola.AssemblyInfoInputs.cache
+C:\Users\marvi\OneDrive\Escritorio\Example_Dot_NET\aplicacion_consola\obj\Debug\netcoreapp3.1\aplicacion_consola.AssemblyInfo.cs
+C:\Users\marvi\OneDrive\Escritorio\Example_Dot_NET\aplicacion_consola\obj\Debug\netcoreapp3.1\aplicacion_consola.csproj.CoreCompileInputs.cache
+C:\Users\marvi\OneDrive\Escritorio\Example_Dot_NET\aplicacion_consola\obj\Debug\netcoreapp3.1\aplicacion_consola.dll
+C:\Users\marvi\OneDrive\Escritorio\Example_Dot_NET\aplicacion_consola\obj\Debug\netcoreapp3.1\aplicacion_consola.pdb
+C:\Users\marvi\OneDrive\Escritorio\Example_Dot_NET\aplicacion_consola\obj\Debug\netcoreapp3.1\aplicacion_consola.genruntimeconfig.cache
