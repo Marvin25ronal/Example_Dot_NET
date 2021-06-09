@@ -1,0 +1,16 @@
+{
+  "Experience": [
+    {
+      "name": "Mantenimiento aplicacion",
+      "description": "Se le dio mantenimiento, desarrollo a nuevas funcionalidades a la aplicacion del laboratorio de la escuela de Electrica para el control de prestamos de materiales.La aplicacion esta desarrollada en php utilizando laravel y vue.",
+      "from": "2019 primer semestre",
+      "to": "2019 primer semestre"
+    },
+    {
+      "name": "Auxiliatura",
+      "description": "Auxiliar del curso de Estructuras de Datos, diseño de diferentes estructuras de datos, enseñanza del lenguaje C/C++ y golang.",
+      "from": "2020",
+      "to": "2021"
+    }
+  ]
+}
