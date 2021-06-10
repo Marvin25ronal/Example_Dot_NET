@@ -1,0 +1,70 @@
+﻿@{
+    ViewBag.Title = "Informacion";
+}
+@*
+    Encabezado de la tarjeta
+*@
+
+<header class="row">
+    <div class="col-md-12">
+        <div class="card card-body bg-dark text-light">
+            <div class="row">
+                <div class="col-md-2">
+                    <img src="~/Photos/Blanco.jpg" alt="" class="img-fluid" />
+                </div>
+                <div class="col-md-10">
+                    <h1>
+                        Marvin Martínez
+                    </h1>
+                    <h4>
+                        FullStack Developer
+                    </h4>
+                    <p>
+                        Soy una persona autodidacta, responsable, perseverante.
+                        Tengo una buena relacion para los trabajos en equipo.
+                        Tengo disponibilidad y deseos de aprender para aumentar
+                        mi conocimiento.
+                        <a href="">@Html.ActionLink("Hire me", "Index", "Home")</a>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+<div class="row py-2">
+    <div class="col-md-4">
+        <div class="card bg-light">
+            <div class="card-body">
+                <h1>Skills</h1>
+                @foreach (var skil in (List<WebApplication1.Models.Skills>)ViewData["Datos"])
+                {
+                    <h5>@skil.Name</h5>
+                    <div class="progress">
+                        <div class="progress-bar" role="progressbar" style="width:@skil.Porcentaje%">
+                        </div>
+                    </div>
+                }
+
+            </div>
+        </div>
+    </div>
+    <div class="col-md-8">
+        <div class="card bg-light">
+            <div class="card-body">
+                <h1>Experiencia</h1>
+                @foreach (var exp in (List<WebApplication1.Models.Experiencia>)ViewData["Experience"])
+                {
+                    <ul>
+                        <li>
+                            <h3>
+                                @exp.Title
+                            </h3>
+                            <h5>@exp.From - @exp.To</h5>
+                            <p>@exp.Description</p>
+                        </li>
+                    </ul>
+                }
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,44 @@
+{
+  "Skills": [
+    {
+      "name": "NodeJS",
+      "porcentaje": 70
+    },
+    {
+      "name": "Golang",
+      "porcentaje": 70
+    },
+    {
+      "name": "Javascript",
+      "porcentaje": 50
+    },
+    {
+      "name": "Java",
+      "porcentaje": 70
+    },
+    {
+      "name": "C#",
+      "porcentaje": 65
+    },
+    {
+      "name": "python",
+      "porcentaje": 64
+    },
+    {
+      "name": "SQL",
+      "porcentaje": 60
+    },
+    {
+      "name": "C/C++",
+      "porcentaje": 68
+    },
+    {
+      "name": "PHP",
+      "porcentaje": 50
+    },
+    {
+      "name": "Docker",
+      "porcentaje": 69
+    }
+  ]
+}

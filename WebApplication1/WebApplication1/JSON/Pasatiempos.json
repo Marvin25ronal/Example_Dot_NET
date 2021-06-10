@@ -1,0 +1,34 @@
+{
+  "Pasatiempos": [
+    {
+      "title": "Tecnología",
+      "description": "Aprender diferentes tecnologías.",
+      "img": "~/Photos/technology.png"
+    },
+    {
+      "title": "Peliculas",
+      "description": "Especialmente las peliculas de terror",
+      "img": "~/Photos/pelicula.jpg"
+    },
+    {
+      "title": "VideoJuegos",
+      "description": "En esta pandemia me encanta jugar APEX",
+      "img": "~/Photos/Apex.png"
+    },
+    {
+      "title": "Naturaleza",
+      "description": "Me encanta salir a explorar la naturaleza",
+      "img": "~/Photos/naturaleza.png"
+    },
+    {
+      "title": "Nadar",
+      "description": "Mi deporte favorito es nadar",
+      "img": "~/Photos/nadar.png"
+    },
+    {
+      "title": "Paintball",
+      "description": "Este seria mi segundo deporte favorito.",
+      "img": "~/Photos/paintball.png"
+    }
+  ]
+}
