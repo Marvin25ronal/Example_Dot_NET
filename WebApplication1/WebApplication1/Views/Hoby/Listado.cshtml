@@ -1,0 +1,35 @@
+﻿
+@{
+    ViewBag.Title = "Pasatiempos";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="row">
+    <div class="col-md-12">
+        <div class="card card-body bg-dark">
+            <div class="row">
+                <div class="col-md-12">
+                    <h1 class="text-center text-light">
+                        Pasatiempos
+                    </h1>
+                </div>
+                @foreach (var pas in (List<WebApplication1.Models.Hoby>)ViewData["Datos"])
+                {
+                    <div class="col-md-4 p-2">
+                        <div class="card h-100">
+                            <div class="overflow">
+                                <img src="@Url.Content(pas.Photograpy)" class="card-img-top" />
+                            </div>
+                            <div class="card-body">
+                                <h3>@pas.Title</h3>
+                                <p>@pas.Name</p>
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+
+        </div>
+    </div>
+</div>
+

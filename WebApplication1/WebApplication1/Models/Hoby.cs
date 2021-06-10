@@ -7,13 +7,14 @@ namespace WebApplication1.Models
 {
     public class Hoby
     {
-        private int iD;
+        private string title;
         private string name;
         private string photograpy;
 
-       
-        public int ID { get => iD; set => iD = value; }
+
+
         public string Name { get => name; set => name = value; }
         public string Photograpy { get => photograpy; set => photograpy = value; }
+        public string Title { get => title; set => title = value; }
     }
 }
